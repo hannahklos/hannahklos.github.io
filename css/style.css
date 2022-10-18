@@ -21,7 +21,11 @@ p
 	font-size: 35pt;
 	text-align: center
 }
-img
+#mainpic
 {
 	border-radius: 35%;
+}
+div.button
+{
+	text-align: center;
 }
