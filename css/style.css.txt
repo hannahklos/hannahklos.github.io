@@ -4,7 +4,7 @@
 }
 h1
 {
-	text-allign: center;
+	text-align: center;
 	color: var(--favcolor);
 	background-color: rgb(50, 0, 0);
 	font-size: 38pt;
@@ -14,4 +14,14 @@ section
 	color: var(--favcolor);
 	background-repeat: no-repeat;
 	float: right;
+}
+p
+{
+	font-color: pink
+	font-size: 35pt;
+	text-align: center
+}
+img
+{
+	border-radius: 35%;
 }
