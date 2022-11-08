@@ -1,0 +1,31 @@
+:root
+{
+--favcolor: rgb(125, 0, 0);
+}
+h1
+{
+	text-align: center;
+	color: var(--favcolor);
+	background-color: rgb(50, 0, 0);
+	font-size: 38pt;
+}
+section 
+{
+	color: var(--favcolor);
+	background-repeat: no-repeat;
+	float: right;
+}
+p
+{
+	font-color: pink
+	font-size: 35pt;
+	text-align: center
+}
+#mainpic
+{
+	border-radius: 35%;
+}
+div.button
+{
+	text-align: center;
+}
