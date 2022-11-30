@@ -40,7 +40,7 @@ p
 
 .img-fluid
 {
-    width: 30vmax
+    width: 30vmax;
 }
 
 iframe
@@ -51,22 +51,22 @@ iframe
 
 tr
 {
-    font-size 1.5vmax
+    font-size 1.5vmax;
 }
 
 li
 {
-    font-size 1.5vmax
+    font-size 1.5vmax;
 }
 
 img
 {
-	border-radius: 25%
-	img-size: 55px;
+    border-radius: 25%;
+    img-size: 55px;
 }
 	
 #mainpic
 {
-	border-radius: 25%
+	border-radius: 25%;
 	img-size: 55px;
 }
