@@ -59,4 +59,9 @@ li
     font-size 1.5vmax
 }
 
+img
+{
+	border-radius: 25%
+	img-size: 55px;
+}
 	
