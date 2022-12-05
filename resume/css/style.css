@@ -43,4 +43,6 @@ li
 {
     font-size 1.5vmax
 }
-     
+img.withBorder {
+    border: 1px solid #cccccc;
+}     
