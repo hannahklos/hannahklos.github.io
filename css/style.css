@@ -52,6 +52,7 @@ iframe
 tr
 {
     font-size 1.5vmax;
+    border: 1px solid black;
 }
 
 li

@@ -36,7 +36,8 @@ div.button
 }
 tr
 {
-    font-size 1.5vmax
+    font-size 1.5vmax;
+    border: 1px solid black;
 }
 
 li
